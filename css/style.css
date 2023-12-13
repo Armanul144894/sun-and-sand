@@ -300,10 +300,11 @@ ol {
 }
 
 .icon-logo{
-  /* display: none; */
+  padding-bottom: 10px;
 }
 .header.sticked .icon-logo {
   display: block;
+  padding-bottom: 0;
 }
 .header.sticked .text-logo{
   display: none !important;
