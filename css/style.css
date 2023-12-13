@@ -313,7 +313,7 @@ ol {
   display: none !important;
 }
 .header.sticked .menu-container{
-  justify-content: center;
+  justify-content: space-evenly;
 }
 .location{
  color: #DAB782 !important;
